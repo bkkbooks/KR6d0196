@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0196/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0196/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金光明最勝懺儀
+  identifiers:
+    krp: KR6d0196
+    cbeta: T46n1946
+    cbeta_old_id: T46n1946
+    authorityid: CA0001793
+    json_key: T1946
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1946.xml
+    old_id: T46n1946
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0196_000-T.yaml, hash: 'sha256:4659c452554f801029d5fe8459fb078ddf2d2d107919e312747b39069d327814'}
+  - {seq: 1, filename: KR6d0196_001-T.yaml, hash: 'sha256:d23cc563a8346f7801df3282f3b0f2b83628acc048c2e660ac602c7a118e50b8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0196_000-T.markers.yaml, hash: 'sha256:bd47e57545c51624d901e8ab8b349de88253d16fd4c8a27adee0cfe73d3ed0cf'}
+  - {seq: 1, role: markers, filename: assets/KR6d0196_001-T.markers.yaml, hash: 'sha256:90a1e01693bd9123b98ab95f32c08259bc8bdc42272a8ef12557c1ca7dbcb0ed'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0196_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2566
+  label: 金光明最勝懺儀
+  type: juan
+  level: 1
+hash: sha256:6a5df7d4de1f15727ef7f8128b47a6675e84cebd17dd41b5286a8d6371cbdd3a
