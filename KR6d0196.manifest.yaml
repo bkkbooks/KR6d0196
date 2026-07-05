@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0196_000.yaml, hash: 'sha256:4659c452554f801029d5fe8459fb078ddf2d2d107919e312747b39069d327814'}
-  - {seq: 1, filename: KR6d0196_001.yaml, hash: 'sha256:f91478e0919bb9a656244344c6e8104f1552e373a9e176affe8cbf05e62d4298'}
+  - {seq: 1, filename: KR6d0196_001.yaml, hash: 'sha256:d23cc563a8346f7801df3282f3b0f2b83628acc048c2e660ac602c7a118e50b8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0196_001.markers.yaml, hash: 'sha256:5aba9161c9f8a65e02234e471aefc6db7f9ddeb21d53f5d168a3e457e1cf0dd3'}
+  - {seq: 0, role: markers, filename: assets/KR6d0196_000.markers.yaml, hash: 'sha256:220ab85a351fc68adbdf6601351a54ece9b0a44b29633393ebafdffdcc90dc97'}
+  - {seq: 1, role: markers, filename: assets/KR6d0196_001.markers.yaml, hash: 'sha256:c248025bb30eaebddcc1e6516b3d9d4c731d13775419a415b345d456e0b108ae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 金光明最勝懺儀
   type: juan
   level: 1
-hash: sha256:0d0d495a848c70e2508b9ef5d1db42731a82f87b8a2a18e300ab10a54f2b7935
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b0809bd2ded05a12c013ce2372bc2300e13717d8aef53354c26a7d8aee2c2b30
