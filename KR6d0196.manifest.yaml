@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0196/v1
 canonical_location: https://kanripo.org/bkk/KR6d0196/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金光明最勝懺儀
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0196_000.yaml, hash: 'sha256:4659c452554f801029d5fe8459fb078ddf2d2d107919e312747b39069d327814'}
-  - {seq: 1, filename: KR6d0196_001.yaml, hash: 'sha256:d23cc563a8346f7801df3282f3b0f2b83628acc048c2e660ac602c7a118e50b8'}
+  - {seq: 1, filename: KR6d0196_001.yaml, hash: 'sha256:78f1482e1fd86f053b99a0950eb65e69c4ab61238289bea1ae8ef7cc372e7378'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0196_000.markers.yaml, hash: 'sha256:220ab85a351fc68adbdf6601351a54ece9b0a44b29633393ebafdffdcc90dc97'}
-  - {seq: 1, role: markers, filename: assets/KR6d0196_001.markers.yaml, hash: 'sha256:c248025bb30eaebddcc1e6516b3d9d4c731d13775419a415b345d456e0b108ae'}
+  - {seq: 1, role: markers, filename: assets/KR6d0196_001.markers.yaml, hash: 'sha256:37004c2425c309c2caeb8763d88ac83b17d678162cc49c7da337acc725fc753b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 金光明最勝懺儀
   type: juan
   level: 1
-hash: sha256:b0809bd2ded05a12c013ce2372bc2300e13717d8aef53354c26a7d8aee2c2b30
+hash: sha256:0c6e9fb29ff7ddc242250eb3ec19f2d66ac8a1ca1bc1e91bed026cd583ba1df5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
